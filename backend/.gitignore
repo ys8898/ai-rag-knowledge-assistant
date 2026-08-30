@@ -1,0 +1,18 @@
+# python
+__pycache__/
+*.pyc
+
+# env
+.env
+
+# database
+*.db
+
+# frontend
+node_modules/
+
+# model cache
+.cache/
+
+# docker
+*.log

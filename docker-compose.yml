@@ -1,0 +1,40 @@
+services:
+
+  backend:
+
+    image: ai-rag-backend
+
+    container_name: ai-rag-backend
+
+    ports:
+      - "8000:8000"
+
+
+    env_file:
+      - ./backend/.env
+
+
+    volumes:
+
+      - ./backend/knowledge:/app/knowledge
+
+      - ./backend/vector_db:/app/vector_db
+
+      - ./backend/chat.db:/app/chat.db
+
+
+
+  frontend:
+
+    image: ai-rag-frontend
+
+    container_name: ai-rag-frontend
+
+    ports:
+
+      - "80:80"
+
+    depends_on:
+
+      - backend
+    

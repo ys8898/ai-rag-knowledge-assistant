@@ -1,0 +1,248 @@
+[
+  {
+    "faiss_id": 0,
+    "chunk_id": "99.pdf_0",
+    "source": "99.pdf",
+    "file_hash": "b2aa9b9b232c3fd420b8f67e7694d4534235e357d59b958286ae2f469aa1d756"
+  },
+  {
+    "faiss_id": 1,
+    "chunk_id": "aaa.txt_0",
+    "source": "aaa.txt",
+    "file_hash": "8365003db869587f0ede7ed8fd5bd12851c8a549b826ad0cdf62f3ab9aecf53e"
+  },
+  {
+    "faiss_id": 2,
+    "chunk_id": "company.txt_0",
+    "source": "company.txt",
+    "file_hash": "6d1dcef25bd12c0fedc9d9aae4a7c62dab90b9b0e44a6b5f86f23d77c410c8bb"
+  },
+  {
+    "faiss_id": 3,
+    "chunk_id": "product.txt_0",
+    "source": "product.txt",
+    "file_hash": "97de05beb04690cfe37b90d5ab936128a7a6209a2034ee423e3e1d02659e97b2"
+  },
+  {
+    "faiss_id": 4,
+    "chunk_id": "product.txt_1",
+    "source": "product.txt",
+    "file_hash": "97de05beb04690cfe37b90d5ab936128a7a6209a2034ee423e3e1d02659e97b2"
+  },
+  {
+    "faiss_id": 5,
+    "chunk_id": "product.txt_2",
+    "source": "product.txt",
+    "file_hash": "97de05beb04690cfe37b90d5ab936128a7a6209a2034ee423e3e1d02659e97b2"
+  },
+  {
+    "faiss_id": 6,
+    "chunk_id": "product.txt_3",
+    "source": "product.txt",
+    "file_hash": "97de05beb04690cfe37b90d5ab936128a7a6209a2034ee423e3e1d02659e97b2"
+  },
+  {
+    "faiss_id": 7,
+    "chunk_id": "product.txt_4",
+    "source": "product.txt",
+    "file_hash": "97de05beb04690cfe37b90d5ab936128a7a6209a2034ee423e3e1d02659e97b2"
+  },
+  {
+    "faiss_id": 8,
+    "chunk_id": "product.txt_5",
+    "source": "product.txt",
+    "file_hash": "97de05beb04690cfe37b90d5ab936128a7a6209a2034ee423e3e1d02659e97b2"
+  },
+  {
+    "faiss_id": 9,
+    "chunk_id": "product.txt_6",
+    "source": "product.txt",
+    "file_hash": "97de05beb04690cfe37b90d5ab936128a7a6209a2034ee423e3e1d02659e97b2"
+  },
+  {
+    "faiss_id": 10,
+    "chunk_id": "product.txt_7",
+    "source": "product.txt",
+    "file_hash": "97de05beb04690cfe37b90d5ab936128a7a6209a2034ee423e3e1d02659e97b2"
+  },
+  {
+    "faiss_id": 11,
+    "chunk_id": "product.txt_8",
+    "source": "product.txt",
+    "file_hash": "97de05beb04690cfe37b90d5ab936128a7a6209a2034ee423e3e1d02659e97b2"
+  },
+  {
+    "faiss_id": 12,
+    "chunk_id": "product.txt_9",
+    "source": "product.txt",
+    "file_hash": "97de05beb04690cfe37b90d5ab936128a7a6209a2034ee423e3e1d02659e97b2"
+  },
+  {
+    "faiss_id": 13,
+    "chunk_id": "product.txt_10",
+    "source": "product.txt",
+    "file_hash": "97de05beb04690cfe37b90d5ab936128a7a6209a2034ee423e3e1d02659e97b2"
+  },
+  {
+    "faiss_id": 14,
+    "chunk_id": "product.txt_11",
+    "source": "product.txt",
+    "file_hash": "97de05beb04690cfe37b90d5ab936128a7a6209a2034ee423e3e1d02659e97b2"
+  },
+  {
+    "faiss_id": 15,
+    "chunk_id": "product.txt_12",
+    "source": "product.txt",
+    "file_hash": "97de05beb04690cfe37b90d5ab936128a7a6209a2034ee423e3e1d02659e97b2"
+  },
+  {
+    "faiss_id": 16,
+    "chunk_id": "product.txt_13",
+    "source": "product.txt",
+    "file_hash": "97de05beb04690cfe37b90d5ab936128a7a6209a2034ee423e3e1d02659e97b2"
+  },
+  {
+    "faiss_id": 17,
+    "chunk_id": "product.txt_14",
+    "source": "product.txt",
+    "file_hash": "97de05beb04690cfe37b90d5ab936128a7a6209a2034ee423e3e1d02659e97b2"
+  },
+  {
+    "faiss_id": 18,
+    "chunk_id": "product.txt_15",
+    "source": "product.txt",
+    "file_hash": "97de05beb04690cfe37b90d5ab936128a7a6209a2034ee423e3e1d02659e97b2"
+  },
+  {
+    "faiss_id": 19,
+    "chunk_id": "product.txt_16",
+    "source": "product.txt",
+    "file_hash": "97de05beb04690cfe37b90d5ab936128a7a6209a2034ee423e3e1d02659e97b2"
+  },
+  {
+    "faiss_id": 20,
+    "chunk_id": "product.txt_17",
+    "source": "product.txt",
+    "file_hash": "97de05beb04690cfe37b90d5ab936128a7a6209a2034ee423e3e1d02659e97b2"
+  },
+  {
+    "faiss_id": 21,
+    "chunk_id": "product.txt_18",
+    "source": "product.txt",
+    "file_hash": "97de05beb04690cfe37b90d5ab936128a7a6209a2034ee423e3e1d02659e97b2"
+  },
+  {
+    "faiss_id": 22,
+    "chunk_id": "product.txt_19",
+    "source": "product.txt",
+    "file_hash": "97de05beb04690cfe37b90d5ab936128a7a6209a2034ee423e3e1d02659e97b2"
+  },
+  {
+    "faiss_id": 23,
+    "chunk_id": "product.txt_20",
+    "source": "product.txt",
+    "file_hash": "97de05beb04690cfe37b90d5ab936128a7a6209a2034ee423e3e1d02659e97b2"
+  },
+  {
+    "faiss_id": 24,
+    "chunk_id": "product.txt_21",
+    "source": "product.txt",
+    "file_hash": "97de05beb04690cfe37b90d5ab936128a7a6209a2034ee423e3e1d02659e97b2"
+  },
+  {
+    "faiss_id": 25,
+    "chunk_id": "product.txt_22",
+    "source": "product.txt",
+    "file_hash": "97de05beb04690cfe37b90d5ab936128a7a6209a2034ee423e3e1d02659e97b2"
+  },
+  {
+    "faiss_id": 26,
+    "chunk_id": "product.txt_23",
+    "source": "product.txt",
+    "file_hash": "97de05beb04690cfe37b90d5ab936128a7a6209a2034ee423e3e1d02659e97b2"
+  },
+  {
+    "faiss_id": 27,
+    "chunk_id": "product.txt_24",
+    "source": "product.txt",
+    "file_hash": "97de05beb04690cfe37b90d5ab936128a7a6209a2034ee423e3e1d02659e97b2"
+  },
+  {
+    "faiss_id": 28,
+    "chunk_id": "product.txt_25",
+    "source": "product.txt",
+    "file_hash": "97de05beb04690cfe37b90d5ab936128a7a6209a2034ee423e3e1d02659e97b2"
+  },
+  {
+    "faiss_id": 29,
+    "chunk_id": "product.txt_26",
+    "source": "product.txt",
+    "file_hash": "97de05beb04690cfe37b90d5ab936128a7a6209a2034ee423e3e1d02659e97b2"
+  },
+  {
+    "faiss_id": 30,
+    "chunk_id": "product.txt_27",
+    "source": "product.txt",
+    "file_hash": "97de05beb04690cfe37b90d5ab936128a7a6209a2034ee423e3e1d02659e97b2"
+  },
+  {
+    "faiss_id": 31,
+    "chunk_id": "product.txt_28",
+    "source": "product.txt",
+    "file_hash": "97de05beb04690cfe37b90d5ab936128a7a6209a2034ee423e3e1d02659e97b2"
+  },
+  {
+    "faiss_id": 32,
+    "chunk_id": "product.txt_29",
+    "source": "product.txt",
+    "file_hash": "97de05beb04690cfe37b90d5ab936128a7a6209a2034ee423e3e1d02659e97b2"
+  },
+  {
+    "faiss_id": 33,
+    "chunk_id": "product.txt_30",
+    "source": "product.txt",
+    "file_hash": "97de05beb04690cfe37b90d5ab936128a7a6209a2034ee423e3e1d02659e97b2"
+  },
+  {
+    "faiss_id": 34,
+    "chunk_id": "product.txt_31",
+    "source": "product.txt",
+    "file_hash": "97de05beb04690cfe37b90d5ab936128a7a6209a2034ee423e3e1d02659e97b2"
+  },
+  {
+    "faiss_id": 35,
+    "chunk_id": "product.txt_32",
+    "source": "product.txt",
+    "file_hash": "97de05beb04690cfe37b90d5ab936128a7a6209a2034ee423e3e1d02659e97b2"
+  },
+  {
+    "faiss_id": 36,
+    "chunk_id": "product.txt_33",
+    "source": "product.txt",
+    "file_hash": "97de05beb04690cfe37b90d5ab936128a7a6209a2034ee423e3e1d02659e97b2"
+  },
+  {
+    "faiss_id": 37,
+    "chunk_id": "product.txt_34",
+    "source": "product.txt",
+    "file_hash": "97de05beb04690cfe37b90d5ab936128a7a6209a2034ee423e3e1d02659e97b2"
+  },
+  {
+    "faiss_id": 38,
+    "chunk_id": "service.txt_0",
+    "source": "service.txt",
+    "file_hash": "fe2af8727b2525190f4b1ee9bc483b5f38cdf5d326a6cc9863153e4b131e0ef7"
+  },
+  {
+    "faiss_id": 39,
+    "chunk_id": "sync_test.txt_0",
+    "source": "sync_test.txt",
+    "file_hash": "47c01bd58d8234288a475a25300397f5cdacd9bb07d1428ea7f6f9095ec1e7e6"
+  },
+  {
+    "faiss_id": 40,
+    "chunk_id": "test.docx_0",
+    "source": "test.docx",
+    "file_hash": "a7f7974551d406fb0a9d8169aedba953a355a3248dcb73d007ae6097c73706bb"
+  }
+]

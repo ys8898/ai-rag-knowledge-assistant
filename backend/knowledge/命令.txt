@@ -1,0 +1,6 @@
+后台前端
+pnpm dev
+
+redis启动
+cd D:\Redis
+redis-server.exe redis.windows.conf

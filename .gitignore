@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Database
+*.db
+
+# Node
+node_modules/
+dist/
+
+# Model cache
+models/
+.cache/
+
+# IDE
+.vscode/
+.idea/
+
+# Docker
+*.log
