@@ -38,6 +38,7 @@ app.add_middleware(
 
     allow_origins=[
         "http://localhost:5173"
+        "http://116.62.224.244"
     ],
 
     allow_credentials=True,

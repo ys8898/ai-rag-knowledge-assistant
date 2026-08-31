@@ -2,17 +2,21 @@ services:
 
   backend:
 
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+
     image: ai-rag-backend
 
     container_name: ai-rag-backend
 
-    ports:
-      - "8000:8000"
+    restart: always
 
+    expose:
+      - "8000"
 
     env_file:
       - ./backend/.env
-
 
     volumes:
 
@@ -21,20 +25,37 @@ services:
       - ./backend/vector_db:/app/vector_db
 
       - ./backend/chat.db:/app/chat.db
+      
+      - ./models/huggingface:/root/.cache/huggingface
+
+    networks:
+      - ai-network
 
 
 
   frontend:
 
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+
     image: ai-rag-frontend
 
     container_name: ai-rag-frontend
 
-    ports:
+    restart: always
 
+    ports:
       - "80:80"
 
     depends_on:
-
       - backend
-    
+
+    networks:
+      - ai-network
+
+
+
+networks:
+
+  ai-network:
