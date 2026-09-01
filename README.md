@@ -73,20 +73,6 @@ BGE Reranker 重排序
 
 LLM 生成回答
 
-## 在线访问
-
-项目地址：
-
-GitHub：
-https://github.com/ys8898/ai-rag-knowledge-assistant
-
-在线体验：
-
-http://116.62.224.244
-
-API 文档：
-
-http://116.62.224.244:8000/docs
 
 ## 本地启动方式
 
