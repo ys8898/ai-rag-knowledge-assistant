@@ -1,7 +1,7 @@
 from openai import OpenAI
 
 client = OpenAI(
-    api_key="sk-pufclnonlgyjpxapwkqzfopazdvkejmzxdigmiavrolxyezj",  # 你的 API Key
+    api_key="",  # 你的 API Key
     base_url="https://api.siliconflow.cn/v1"
 )
 
