@@ -1,0 +1,61 @@
+services:
+
+  backend:
+
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+
+    image: ai-rag-backend
+
+    container_name: ai-rag-backend
+
+    restart: always
+
+    expose:
+      - "8000"
+
+    env_file:
+      - ./backend/.env
+
+    volumes:
+
+      - ./backend/knowledge:/app/knowledge
+
+      - ./backend/vector_db:/app/vector_db
+
+      - ./backend/chat.db:/app/chat.db
+      
+      - ./models:/models
+
+    networks:
+      - ai-network
+
+
+
+  frontend:
+
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+
+    image: ai-rag-frontend
+
+    container_name: ai-rag-frontend
+
+    restart: always
+
+    ports:
+      - "80:80"
+
+    depends_on:
+      - backend
+
+    networks:
+      - ai-network
+
+
+
+networks:
+
+  ai-network:

@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Database
+*.db
+
+# Node
+node_modules/
+dist/
+
+# Model cache
+models/
+.cache/
+
+# IDE
+.vscode/
+.idea/
+
+# Docker
+*.log
+
+# Local archives
+*.tar.gz
+*.tgz
+*.zip
+*.7z
+
+# Interrupted knowledge deletion backups
+backend/knowledge/.delete-backups/

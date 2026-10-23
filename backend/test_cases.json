@@ -1,0 +1,29 @@
+[
+    {
+        "question":"公司叫什么？",
+
+        "expected":[
+            "未来科技有限公司"
+        ]
+
+    },
+    {
+        "question": "公司什么时候成立？",
+        "expected": "2020年"
+    },
+    {
+        "question":"老板是谁？",
+
+        "expected":[
+        "暂无公开"
+        ]
+    },
+    {
+        "question": "公司明天什么安排？",
+        "expected": "休息一天"
+    },
+    {
+        "question": "公司主营什么业务？",
+        "expected": "AI客服解决方案"
+    }
+]
